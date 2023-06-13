@@ -1,0 +1,10 @@
+* monkeylib-utilities
+
+Various CL utilities that I use all the time.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-utilities.git   |
+| commit  | 3920a67  |
+| systems | monkeylib-utilities |
+|---------+-------------------------------------------|
+
